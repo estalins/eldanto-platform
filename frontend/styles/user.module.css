@@ -1,0 +1,14 @@
+.userPanel {
+  background: #fff;
+  padding: 2em;
+  border-radius: 10px;
+  box-shadow: 0 1px 8px rgba(0,0,0,0.09);
+  margin: 2em auto;
+  max-width: 600px;
+}
+.configPanel {
+  margin-top: 2em;
+  background: #f8f8f8;
+  padding: 1em;
+  border-radius: 8px;
+}
